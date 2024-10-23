@@ -17,7 +17,7 @@
     "fmt:fix": "prettier --write src/"
   },
   "dependencies": {
-    "next": "14.1.0",
+    "next": "14.2.16",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -27,7 +27,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^9.0.0",
-    "eslint-config-next": "14.1.0",
+    "eslint-config-next": "14.2.16",
     "eslint-config-prettier": "^9.1.0",
     "postcss": "^8",
     "prettier": "^3.2.2",
